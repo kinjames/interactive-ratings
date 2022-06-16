@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-RhVb_D8HQc)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-FrDvE5r9IR)
 - Live Site URL: [Github](https://kinjames.github.io/interactive-ratings/)
 
 ## My process
